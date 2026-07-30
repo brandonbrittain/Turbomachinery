@@ -1,0 +1,7 @@
+To go from wsl to windows desktop:
+    cd /mnt/c/Users/(Location of Folder)
+    
+    ./meangen-17.4.X
+    ./stagen-18.1.X
+    ./multall-open-20.6.X < stage_new.dat
+    ./convert-to-tecplot.X
