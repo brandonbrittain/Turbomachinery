@@ -1,0 +1,1 @@
+This is a place where I will be working on open source turbomachinery. I will prioritize fundamentals and robust code design to help develop an opensource work package to design rocket and jet turbomachinery from 1-D system coupling to final design with 3D CFD.
